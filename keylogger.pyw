@@ -1,3 +1,5 @@
+# RUN IN THE BACKGROUND VERSION
+
 import pynput
 from pynput.keyboard import Key, Listener
 
